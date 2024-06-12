@@ -1735,6 +1735,8 @@ checksum = "648001efe5d5c0102d8cea768e348da85d90af8ba91f0bea908f157951493cd4"
 [[package]]
 name = "otdrs"
 version = "1.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "551f7c8ca45cd96337e5e0b6648ead00321f623c028886dd9fa9bd0666e9dde7"
 dependencies = [
  "clap",
  "crc",
